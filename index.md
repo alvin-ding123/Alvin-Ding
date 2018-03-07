@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Hello There!
 
-You can use the [editor on GitHub](https://github.com/alvin-ding123/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my digital portfolio, created on GitHub. You can edit it [here(https://github.com/alvin-ding123/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
